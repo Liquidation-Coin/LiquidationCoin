@@ -1,5 +1,15 @@
 {
   "name": "Liquidation",
   "symbol": "LIQ",
-  "image": "https://liq.care/logo_trans.png"
+  "image": "https://liq.care/logo_trans.png",
+  "description": "Welcome to Liquidation Coin! We understand the pain of watching your investments go down the drain. Our mission is to turn those tears into tokens. By joining our airdrop, you'll receive LIQ as a form of compensation for your losses. The more you lost, the more you gain. It's our way of saying, We’ve got your back, even when the market doesn’t.",
+  "extensions": {
+    "website": "https://liq.care/",
+    "telegram": "https://t.me/LiqCoinOfficial"
+  },
+  "tags": [],
+  "creator": {
+    "name": "Project Leek",
+    "site": "https://liq.care/"
+  }
 }
